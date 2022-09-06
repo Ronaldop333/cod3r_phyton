@@ -1,0 +1,2 @@
+C:\Users\ronal\AppData\Local\Microsoft\WindowsApps
+C:\Users\ronal\AppData\Local\Programs\Python\Python310
